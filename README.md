@@ -1,2 +1,2 @@
 # todo-app
-todo app using javascript
+todo app using javascript ,html, css 
